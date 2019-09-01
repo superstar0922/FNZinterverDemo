@@ -1,2 +1,0 @@
-# FNZinterverDemo
-FNZinterverDemo
